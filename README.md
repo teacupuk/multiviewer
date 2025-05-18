@@ -1,4 +1,6 @@
-# ![logo](https://github.com/teacupuk/multiviewer/blob/main/app_icon.png?raw=true) Multiviewer
+<img src="https://github.com/teacupuk/multiviewer/blob/main/app_icon.png?raw=true" alt="logo" width="100"/>
+
+# Multiviewer
 
 **Multiviewer** is a cross-platform multicast testing application with a modern PyQt GUI. It allows you to listen to multicast streams, visualize incoming packet sources, and route them to standard output, log files, or directly into VLC for playback.
 
