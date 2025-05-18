@@ -9,7 +9,7 @@ OPTIONS = {
     'iconfile': 'app_icon.png',
     'plist': {
         'CFBundleName': 'Multiview',
-        'CFBundleIdentifier': 'uk.co.duckshaw.multiview',
+        'CFBundleIdentifier': 'net.viusao.multiview',
         'CFBundleShortVersionString': '1.0.2',
         'CFBundleVersion': '1.0.2',
     }
